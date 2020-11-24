@@ -1,0 +1,7 @@
+﻿  moc xvideowidget.h
+  QtGL.cpp
+  main.cpp
+  xvideowidget.cpp
+  moc_QtGL.cpp
+  moc_xvideowidget.cpp
+  QtGL.vcxproj -> C:\Users\Administrator\Downloads\temp\src\QtGL\x64\Debug\QtGL.exe

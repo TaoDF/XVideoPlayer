@@ -1,0 +1,2 @@
+C:\Users\Administrator\Downloads\temp\src\QtGL\x64\Debug\QtGL.exe
+C:\Users\Administrator\Downloads\temp\src\QtGL\x64\Debug\QtGL.pdb
